@@ -1,4 +1,4 @@
-# CHC dataset
+# MSCG-Diff dataset
 ## Project Profile
 This repository is used for presentations on the MSCG-Diff dataset. Here, we have uploaded 50 images within the MSCG-Diff
 dataset, along with the corresponding text descriptions.
